@@ -1,2 +1,2 @@
 # clipboard-pickling
-An explainer for the Pickling proposal for the Clipboard API
+An explainer and questionnaire for the Pickling proposal for the Clipboard API.
