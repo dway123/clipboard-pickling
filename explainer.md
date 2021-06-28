@@ -1,5 +1,6 @@
 # Pickling for Async Clipboard API
 
+## NOTE: This explainer has now been [moved](https://github.com/w3c/editing/blob/gh-pages/docs/clipboard-pickling/explainer.md#pickling-for-async-clipboard-api) to the [w3c/editing repository](https://github.com/w3c/editing)!
 
 ## Author:
 *   huangdarwin@chromium.org
